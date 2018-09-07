@@ -34,11 +34,47 @@
   - [ ] testing
 
 
+  ## Dlau Feature List
+  20 hours time limit
+
+  ### difficulty scale 1-10. 1 meaning it is already finished 10 meaning what?!?!
+
+  # Core Features UI/UX
+
+  (4) Display Multiple Todos
+  (3) Add timestamp (moment.js)
+  (3) Mark Important "must do" Items
+  (8) Filter Items (according to Letter, Date?)
+  (10) Leave Comments 
+  (10) Add SHA 256 encryption to Items (Optional for Users)
+
+  # Style Features
+  (1) Bootstrap CSS everythaaaaaaaang
+  (2) Fade animations
+  (2) Hover effect over each item
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   ## Feature list
   * denotes on my to do for the project
   2.5 days = 20 hours
 
-  ### difficulty scale 1-10. 1 meaning it's already finished 10 meaning what?!?!
+  ### difficulty scale 1-10. 1 meaning it is already finished 10 meaning what?!?!
 
   5 = 3 hours
   7 = 5 hours
