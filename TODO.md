@@ -41,7 +41,8 @@
 
   # Core Features UI/UX
 
-  (4) Display Multiple Todos
+  (2) Display Multiple Items
+  (4) Delete Individual Items With Button
   (3) Add timestamp (moment.js)
   (3) Mark Important "must do" Items
   (8) Filter Items (according to Letter, Date?)
