@@ -41,13 +41,13 @@
 
   # Core Features UI/UX
 
-  (2) Display Multiple Items
-  (4) Delete Individual Items With Button
-  (3) Add timestamp (moment.js)
-  (3) Mark Important "must do" Items
+  -(2) Display Multiple Items
+  -(4) Delete Individual Items With Button
+  -(3) Add timestamp (moment.js)
+  -(3) Mark Important "must do" Items
   (8) Filter Items (according to Letter, Date?)
-  (10) Leave Comments 
-  (10) Add SHA 256 encryption to Items (Optional for Users)
+  -(10) Leave Comments 
+  -(10) Add SHA 256 encryption to Items (Optional for Users)
 
   # Style Features
   (1) Bootstrap CSS everythaaaaaaaang

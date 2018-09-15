@@ -4,20 +4,26 @@
     <meta charset="UTF-8">
     <title>My First CRUD App</title>
     <link rel="stylesheet" href="app.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
     <script
             src="https://code.jquery.com/jquery-3.3.1.js"
             integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
             crossorigin="anonymous"></script>
     <script src="app.js"></script>
+    <script src="https://momentjs.com/downloads/moment.js"></script>
+    <script src="sha256.js"></script>
 
   </head>
   <body>
 
-  <input type="text" class="user-input-title" placeholder="Enter the Title">
-  <textarea class="user-input-body" placeholder="Enter the body of text"></textarea>
+  <h1>What Do You Need To Buy?</h1>
 
-  <button class="add-text-btn">add text</button>
-  <button class="del-text-btn">delete text</button>
+  <div class="menu-bar">
+    <input type="text" class="user-input-title" placeholder="Hi...">
+    <input type="checkbox" id="sha256-opt" value="256"><label for ="256">encrypt</label>
+    <button class="add-text-btn" type="submit">Submit</button>
+  </div>
 
   <div class="display"></div>
   </body>
